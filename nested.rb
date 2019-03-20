@@ -16,6 +16,7 @@ def hopper
         }
      }
 
+  programmer_has[:grace_hopper]
 
 end
 
